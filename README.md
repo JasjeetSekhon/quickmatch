@@ -18,7 +18,7 @@ development version and its dependencies can be installed with
 [devtools](https://github.com/hadley/devtools) using the following code:
 ```R
 if (!require("devtools")) install.packages("devtools")
-devtools::install_github("fsavje/quickmatch")
+devtools::install_github("JasjeetSekhon/quickmatch")
 ```
 
 The package contains compiled code, and you must have a development environment
